@@ -1,12 +1,6 @@
-# Mobile_Application_Penetration_Testing_Basic
+Fuente Youtube: [HackemCON: Pentest de Apps Móviles en Android](https://www.youtube.com/watch?v=0KF_Ngp-XKI)
 
-
-
-
-
-
-
-# Pentesting de Aplicaciones Móviles Android - Guía Completa
+# Pentesting de Aplicaciones Móviles Android
 
 ## Contexto
 
