@@ -1,8 +1,10 @@
 Webinar: [HackemCON: Pentest de Apps Móviles en Android](https://www.youtube.com/watch?v=0KF_Ngp-XKI)
+
 CheatSheet: [MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet)
+
 OWASP Mobile Application Security: [OWASP MAS Checklist](https://mas.owasp.org/checklists/MASVS-NETWORK/#)
 
-
+---
 # Pentesting de Aplicaciones Móviles Android
 
 ## Contexto
